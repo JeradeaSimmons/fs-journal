@@ -14,19 +14,19 @@ Make Directory
 
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
-```
+```It identifies the document as a html document.
 
 ```
 
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
-```
+```Hyper text mark up language
 
 ```
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
-```
+```Cascading Style sheets
 
 ```
 
@@ -37,13 +37,13 @@ Make Directory
  }
 ```
 <!-- enter you answer in the space below -->
-```
+```Selector,Property, and Value
 
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
-```
+```Font-Style
 
 ```
 
