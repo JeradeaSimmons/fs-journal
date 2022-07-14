@@ -14,19 +14,22 @@ Make Directory
 
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
-```It identifies the document as a html document.
+```
+It identifies the document as a html document.
 
 ```
 
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
-```Hyper text mark up language
+```
+Hyper text mark up language
 
 ```
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
-```Cascading Style sheets
+```
+Cascading Style sheets
 
 ```
 
@@ -37,13 +40,15 @@ Make Directory
  }
 ```
 <!-- enter you answer in the space below -->
-```Selector,Property, and Value
+```
+Selector,Property, and Value
 
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
-```Font-Style
+```
+Font-Style
 
 ```
 
@@ -56,17 +61,18 @@ body
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+<ul> <ol> <li>
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+This property allows you to manipulate items and contents 
+on your page to be positioned all around.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+width, height, padding, border
 ```
