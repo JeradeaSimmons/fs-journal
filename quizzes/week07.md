@@ -15,7 +15,7 @@ Single page application
 **3.** What are some of the advantages/uses of a `SPA` over a traditional one?
 <!-- enter you answer in the space below -->
 ```
-will read on.
+Load page once. use less bandwidth
 ```
 **4.** What does the `onMounted` method in Vue do?
 <!-- enter you answer in the space below -->
